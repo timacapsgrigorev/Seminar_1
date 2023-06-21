@@ -78,7 +78,6 @@ def ugadaika():
             print('попробуем еще раз?')
 
 
-
 table_multiplication()
 treugolnik()
 chislo()
